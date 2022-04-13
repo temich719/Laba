@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Repository/src/main/java/com/epam/esm/DAO/impl/GiftCertificateDAOImpl.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Repository/src/main/java/com/epam/esm/DAO/impl/TagDAOImpl.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Repository/src/test/resources/data.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Repository/src/test/resources/schema.sql" dialect="GenericSQL" />
+  </component>
+</project>

@@ -1,0 +1,74 @@
+2022-04-02 01:49:52,665 INFO  GiftCertificateServiceImpl:13 - All is works
+2022-04-02 01:51:31,249 INFO  GiftCertificateServiceImpl:13 - All is works
+2022-04-02 01:51:31,251 INFO  GiftCertificateServiceImpl:14 - Artem
+2022-04-03 12:49:27,684 INFO  GiftController:32 - We come here
+2022-04-03 12:49:27,688 INFO  GiftCertificateServiceImpl:24 - Service
+2022-04-03 12:49:27,690 INFO  GiftCertificateDAOImpl:23 - DAO
+2022-04-03 13:16:51,786 INFO  GiftController:32 - Controller
+2022-04-03 13:20:22,904 INFO  GiftController:32 - Controller
+2022-04-03 13:20:22,908 INFO  GiftCertificateServiceImpl:24 - Service
+2022-04-03 13:20:22,911 INFO  GiftCertificateDAOImpl:27 - DAO
+2022-04-03 13:21:30,761 INFO  GiftController:32 - Controller
+2022-04-03 13:21:30,764 INFO  GiftCertificateServiceImpl:24 - Service
+2022-04-03 13:21:30,769 INFO  GiftCertificateDAOImpl:27 - DAO
+2022-04-03 18:35:36,004 INFO  GiftController:32 - Controller
+2022-04-03 18:35:36,015 INFO  GiftCertificateServiceImpl:24 - Service
+2022-04-03 18:35:36,020 INFO  GiftCertificateDAOImpl:27 - DAO
+2022-04-03 18:46:18,734 INFO  GiftController:32 - Controller
+2022-04-03 18:46:18,737 INFO  GiftCertificateServiceImpl:24 - Service
+2022-04-03 18:46:18,738 INFO  GiftCertificateDAOImpl:25 - DAO
+2022-04-03 19:03:12,147 INFO  GiftController:32 - Controller
+2022-04-03 19:03:12,152 INFO  GiftCertificateServiceImpl:24 - Service
+2022-04-03 19:03:12,155 INFO  GiftCertificateDAOImpl:25 - DAO
+2022-04-03 19:31:49,486 INFO  GiftController:33 - Controller
+2022-04-03 19:31:49,490 INFO  GiftCertificateServiceImpl:24 - Service
+2022-04-03 19:31:49,493 INFO  GiftCertificateDAOImpl:25 - DAO
+2022-04-06 13:33:37,821 INFO  GiftController:121 - here
+2022-04-07 15:13:46,489 INFO  GiftController:96 - 0:AnswerMessageJson(status=304 NOT_MODIFIED, message=There is no such certificate with id = 120, code=20213)
+2022-04-07 15:15:32,151 INFO  GiftController:96 - 0:AnswerMessageJson(status=304 NOT_MODIFIED, message=There is no such certificate with id = 120, code=null)
+2022-04-07 15:15:32,154 INFO  GiftController:103 - final::::AnswerMessageJson(status=304 NOT_MODIFIED, message=There is no such certificate with id = 120, code=304120)
+2022-04-07 15:15:39,961 INFO  GiftController:103 - final::::AnswerMessageJson(status=202 ACCEPTED, message=Certificate with id: 14 was deleted, code=20214)
+2022-04-07 15:15:43,667 INFO  GiftController:96 - 0:AnswerMessageJson(status=304 NOT_MODIFIED, message=There is no such certificate with id = 140, code=20214)
+2022-04-07 15:15:43,668 INFO  GiftController:103 - final::::AnswerMessageJson(status=304 NOT_MODIFIED, message=There is no such certificate with id = 140, code=304140)
+2022-04-07 15:19:55,169 INFO  GiftController:103 - final::::AnswerMessageJson(status=202 ACCEPTED, message=Certificate with id: 12 was deleted, code=20212)
+2022-04-07 15:20:01,145 INFO  GiftController:96 - 0:AnswerMessageJson(status=404 NOT_FOUND, message=There is no such certificate with id = 120, code=20212)
+2022-04-07 15:20:01,146 INFO  GiftController:103 - final::::AnswerMessageJson(status=404 NOT_FOUND, message=There is no such certificate with id = 120, code=404120)
+2022-04-09 16:45:31,262 INFO  GiftCertificateDAO:132 - xui:[0]
+2022-04-11 18:11:54,056 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-11 18:13:47,728 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-11 18:16:06,324 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-11 18:17:38,091 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-11 18:23:51,298 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-11 18:29:44,270 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-11 18:30:49,524 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-11 19:42:02,082 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-11 19:44:01,658 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-13 03:33:59,760 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-13 03:34:19,462 INFO  GiftController:49 - Start gift certificate creation
+2022-04-13 03:34:19,473 ERROR ExceptionController:92 - Handle InvalidInputDataException
+2022-04-13 03:34:49,227 INFO  GiftController:49 - Start gift certificate creation
+2022-04-13 03:34:51,081 INFO  GiftController:56 - New gift certificate has been created!
+2022-04-13 03:36:44,429 ERROR ExceptionController:52 - Handle Throwable
+2022-04-13 03:37:13,024 ERROR ExceptionController:52 - Handle Throwable
+2022-04-13 03:37:59,115 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-13 03:38:20,661 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:38:22,235 INFO  GiftController:122 - Certificate has been found by params
+2022-04-13 03:39:08,726 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:39:08,749 INFO  GiftController:122 - Certificate has been found by params
+2022-04-13 03:39:24,160 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:39:24,168 ERROR ExceptionController:92 - Handle InvalidInputDataException
+2022-04-13 03:40:20,922 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:40:20,948 INFO  GiftController:122 - Certificate has been found by params
+2022-04-13 03:40:46,957 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:40:46,978 INFO  GiftController:122 - Certificate has been found by params
+2022-04-13 03:40:59,645 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:40:59,645 ERROR ExceptionController:92 - Handle InvalidInputDataException
+2022-04-13 03:41:11,709 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:41:11,740 INFO  GiftController:122 - Certificate has been found by params
+2022-04-13 03:41:24,976 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:41:24,978 ERROR ExceptionController:92 - Handle InvalidInputDataException
+2022-04-13 03:41:35,681 INFO  GiftController:110 - Start search certificate by params
+2022-04-13 03:41:35,711 INFO  GiftController:122 - Certificate has been found by params
+2022-04-13 13:08:28,394 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-13 13:15:38,942 INFO  Version:21 - HV000001: Hibernate Validator 6.1.5.Final
+2022-04-13 13:17:21,159 INFO  GiftController:69 - Getting certificates list

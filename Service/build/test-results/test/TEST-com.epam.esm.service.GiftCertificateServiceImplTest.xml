@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.esm.service.GiftCertificateServiceImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-11T12:29:50" hostname="LAPTOP-VTT28OEO" time="0.804">
+  <properties/>
+  <testcase name="testGetGiftCertificateByID()" classname="com.epam.esm.service.GiftCertificateServiceImplTest" time="0.774"/>
+  <testcase name="testGetCertificatesDTOListAccordingToInputParams()" classname="com.epam.esm.service.GiftCertificateServiceImplTest" time="0.008"/>
+  <testcase name="testInsertGiftCertificate()" classname="com.epam.esm.service.GiftCertificateServiceImplTest" time="0.004"/>
+  <testcase name="testDeleteGiftCertificate()" classname="com.epam.esm.service.GiftCertificateServiceImplTest" time="0.002"/>
+  <testcase name="testGetGiftCertificatesDTOList()" classname="com.epam.esm.service.GiftCertificateServiceImplTest" time="0.008"/>
+  <testcase name="testUpdateGiftCertificate()" classname="com.epam.esm.service.GiftCertificateServiceImplTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
